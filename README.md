@@ -9,3 +9,5 @@ Here is a great tutorial by Gunther on how to install custom vencord plugins!
 
 > [!note]
 > I will not provide support for installing this plugin.
+---
+I am not a UK citizen, but I support the petition at https://petition.parliament.uk/petitions/722903.
